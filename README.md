@@ -1,4 +1,4 @@
-# 3DPrint
+# Инструкция по работе с PrusaSlicer
 1. Установить [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.9.2/PrusaSlicer-2.9.2-win64.zip) (Версия для Windows x64)
 
 2. Открыть слайсер
@@ -14,3 +14,21 @@
 6. Нажать на кнопку [Экспортировать в G-код]
 
 7. Переместить файл .gcode на флешку
+
+---
+
+# Сайты с готовыми 3D-моделями
+https://3dtoday.ru/3d-models
+
+https://www.printables.com/model (Есть возможность без скачивания модели сразу импортировать её в PrusaSlicer)
+
+https://stlmodels.ru/
+
+https://www.3dforprint.com/ (Есть возможность конвертации изображения в 3D-модель формата .stl)
+
+---
+
+# ПО для 3D-моделирования
+[Blender](https://www.blender.org/) (Базовая и самая простая для понимания программа, которая позволяет производить манипуляции над готовыми 3D-моделями или создавать новые)
+
+[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/)
