@@ -18,13 +18,13 @@
 ---
 
 # Сайты с готовыми 3D-моделями
-https://3dtoday.ru/3d-models
+[https://3dtoday.ru/3d-models](https://3dtoday.ru/3d-models)
 
-https://www.printables.com/model (Есть возможность без скачивания модели сразу импортировать её в PrusaSlicer)
+[https://www.printables.com/model](https://www.printables.com/model) (Есть возможность без скачивания модели сразу импортировать её в PrusaSlicer)
 
-https://stlmodels.ru/
+[https://stlmodels.ru/](https://stlmodels.ru/)
 
-https://www.3dforprint.com/ (Есть возможность конвертации изображения в 3D-модель формата .stl)
+[https://www.3dforprint.com/](https://www.3dforprint.com/) (Есть возможность конвертации изображения в 3D-модель формата .stl)
 
 ---
 
